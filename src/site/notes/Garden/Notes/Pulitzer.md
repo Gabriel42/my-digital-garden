@@ -1,0 +1,114 @@
+---
+{"dg-publish":true,"permalink":"/garden/notes/pulitzer/"}
+---
+
+- [ ] **(1918)** [**His Family**](https://en.wikipedia.org/wiki/His_Family_\(novel\)) - Ernest Poole
+- [ ] **(1919)** [**The Magnificent Ambersons**](https://en.wikipedia.org/wiki/The_Magnificent_Ambersons) - Booth Tarkington
+- [x] (1920) _Não houve premiação_
+- [ ] **(1921)** [**The Age of Innocence**](https://en.wikipedia.org/wiki/The_Age_of_Innocence) - Edith Wharton
+- [ ] **(1922)** [**Alice Adams**](https://en.wikipedia.org/wiki/Alice_Adams_\(novel\)) - Booth Tarkington
+- [ ] **(1923)** [**One of Ours**](https://en.wikipedia.org/wiki/One_of_Ours) - Willa Cather
+- [ ] **(1924)** [**The Able McLaughlins**](https://en.wikipedia.org/wiki/The_Able_McLaughlins) - Margaret Wilson
+- [ ] **(1925)** [**So Big**](https://en.wikipedia.org/wiki/So_Big) - Edna Ferber
+- [ ] **(1926)** [**Arrowsmith**](https://en.wikipedia.org/wiki/Arrowsmith_\(novel\)) - Sinclair Lewis
+- [ ] **(1927)** [**Early Autumn**](https://en.wikipedia.org/wiki/Early_Autumn_\(Bromfield_novel\)) - Louis Bromfield
+- [ ] **(1928)** [**The Bridge of San Luis Rey**](https://en.wikipedia.org/wiki/The_Bridge_of_San_Luis_Rey) - Thornton Wilder
+- [ ] **(1929)** [**Scarlet Sister Mary**](https://en.wikipedia.org/wiki/Scarlet_Sister_Mary) - Julia Peterkin
+- [ ] **(1930)** [**Laughing Boy**](https://en.wikipedia.org/wiki/Laughing_Boy) - Oliver La Farge
+- [ ] **(1931)** [**Years of Grace**](https://en.wikipedia.org/wiki/Years_of_Grace) - Margaret Ayer Barnes
+- [ ] **(1932)** [**The Good Earth**](https://en.wikipedia.org/wiki/The_Good_Earth) - Pearl S. Buck
+- [ ] **(1933)** [**The Store**](https://en.wikipedia.org/wiki/The_Store_\(novel\)) - T. S. Stribling
+- [ ] **(1934)** [**Lamb in His Bosom**](https://en.wikipedia.org/wiki/Lamb_in_His_Bosom) - Caroline Miller
+- [ ] **(1935)** [**Now in November**](https://en.wikipedia.org/wiki/Now_in_November) - Josephine Winslow Johnson
+- [ ] **(1936)** [**Honey in the Horn**](https://en.wikipedia.org/wiki/Honey_in_the_Horn) - Harold L. Davis
+- [ ] **(1937)** [**Gone with the Wind**](https://en.wikipedia.org/wiki/Gone_with_the_Wind_\(novel\)) - Margaret Mitchell
+- [ ] **(1938)** [**The Late George Apley**](https://en.wikipedia.org/wiki/The_Late_George_Apley) - John Phillips Marquand
+- [ ] **(1939)** [**The Yearling**](https://en.wikipedia.org/wiki/The_Yearling) - Marjorie Kinnan Rawlings
+- [ ] **(1940)** [**The Grapes of Wrath**](https://en.wikipedia.org/wiki/The_Grapes_of_Wrath) - John Steinbeck
+- [x] (1941) _Não houve premiação_
+- [ ] **(1942)** [**In This Our Life**](https://en.wikipedia.org/wiki/In_This_Our_Life) - Ellen Glasgow
+- [ ] **(1943)** [**Dragon's Teeth**](https://en.wikipedia.org/wiki/Dragon%27s_Teeth_\(novel\)) - Upton Sinclair
+- [ ] **(1944)** [**Journey in the Dark**](https://en.wikipedia.org/wiki/Journey_in_the_Dark_\(novel\)) - Martin Flavin
+- [ ] **(1945)** [**A Bell for Adano**](https://en.wikipedia.org/wiki/A_Bell_for_Adano) - John Hersey
+- [x] (1946) _Não houve premiação_
+- [ ] **(1947)** [**All the King's Men**](https://en.wikipedia.org/wiki/All_the_King%27s_Men) - Robert Penn Warren
+- [ ] **(1948)** [**Tales of the South Pacific**](https://en.wikipedia.org/wiki/Tales_of_the_South_Pacific) - James A. Michener
+- [ ] **(1949)** [**Guard of Honor**](https://en.wikipedia.org/wiki/Guard_of_Honor_\(novel\)) - James Gould Cozzens
+- [ ] **(1950)** [**The Way West**](https://en.wikipedia.org/wiki/The_Way_West) - A. B. Guthrie Jr.
+- [ ] **(1951)** [**The Town**](https://en.wikipedia.org/wiki/The_Town_\(Richter_novel\)) - Conrad Richter
+- [ ] **(1952)** [**The Caine Mutiny**](https://en.wikipedia.org/wiki/The_Caine_Mutiny) - Herman Wouk
+- [x] **(1953)** [**The Old Man and the Sea**](https://en.wikipedia.org/wiki/The_Old_Man_and_the_Sea) - Ernest Hemingway
+- [x] (1954) _Não houve premiação_
+- [ ] **(1955)** [**A Fable**](https://en.wikipedia.org/wiki/A_Fable_\(Faulkner_novel\)) - William Faulkner
+- [ ] **(1956)** [**Andersonville**](https://en.wikipedia.org/wiki/Andersonville_\(novel\)) - MacKinlay Kantor
+- [x] (1957) _Não houve premiação_
+- [ ] **(1958)** [**A Death in the Family**](https://en.wikipedia.org/wiki/A_Death_in_the_Family) - James Agee
+- [ ] **(1959)** [**The Travels of Jaimie McPheeters**](https://en.wikipedia.org/wiki/The_Travels_of_Jaimie_McPheeters) - Robert Lewis Taylor
+- [ ] **(1960)** [**Advise and Consent**](https://en.wikipedia.org/wiki/Advise_and_Consent) - Allen Drury
+- [ ] **(1961)** [**To Kill a Mockingbird**](https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird) - Harper Lee
+- [ ] **(1962)** [**The Edge of Sadness**](https://en.wikipedia.org/wiki/The_Edge_of_Sadness) - Edwin O'Connor
+- [ ] **(1963)** [**The Reivers**](https://en.wikipedia.org/wiki/The_Reivers) - William Faulkner
+- [x] (1964) _Não houve premiação_
+- [ ] **(1965)** [**The Keepers of the House**](https://en.wikipedia.org/wiki/The_Keepers_of_the_House) - Shirley Ann Grau
+- [ ] **(1966)** [**Collected Stories of Katherine Anne Porter**](https://en.wikipedia.org/wiki/The_Collected_Stories_of_Katherine_Anne_Porter) - Katherine Anne Porter
+- [ ] **(1967)** [**The Fixer**](https://en.wikipedia.org/wiki/The_Fixer) - Bernard Malamud
+- [ ] **(1968)** [**The Confessions of Nat Turner**](https://en.wikipedia.org/wiki/The_Confessions_of_Nat_Turner_\(novel\)) - William Styron
+- [ ] **(1969)** [**House Made of Dawn**](https://en.wikipedia.org/wiki/House_Made_of_Dawn) - N. Scott Momaday
+- [ ] **(1970)** [**Collected Stories of Jean Stafford**](https://en.wikipedia.org/wiki/The_Collected_Stories_of_Jean_Stafford) - Jean Stafford
+- [x] (1971) _Não houve premiação_
+- [ ] **(1972)** [**Angle of Repose**](https://en.wikipedia.org/wiki/Angle_of_Repose) - Wallace Stegner
+- [ ] **(1973)** [**The Optimist's Daughter**](https://en.wikipedia.org/wiki/The_Optimist%27s_Daughter) - Eudora Welty
+- [x] (1974) _Não houve premiação_
+- [ ] **(1975)** [**The Killer Angels**](https://en.wikipedia.org/wiki/The_Killer_Angels) - Michael Shaara
+- [ ] **(1976)** [**Humboldt's Gift**](https://en.wikipedia.org/wiki/Humboldt%27s_Gift) - Saul Bellow
+- [x] (1977) _Não houve premiação_
+- [ ] **(1978)** [**Elbow Room**](https://en.wikipedia.org/wiki/Elbow_Room_\(short_story_collection\)) - James Alan McPherson
+- [ ] **(1979)** [**The Stories of John Cheever**](https://en.wikipedia.org/wiki/The_Stories_of_John_Cheever) - John Cheever
+- [ ] **(1980)** [**The Executioner's Song**](https://en.wikipedia.org/wiki/The_Executioner%27s_Song) - Norman Mailer
+- [ ] **(1981)** [**A Confederacy of Dunces**](https://en.wikipedia.org/wiki/A_Confederacy_of_Dunces) - John Kennedy Toole
+- [ ] **(1982)** [**Rabbit Is Rich**](https://en.wikipedia.org/wiki/Rabbit_Is_Rich) - John Updike
+- [ ] **(1983)** [**The Color Purple**](https://en.wikipedia.org/wiki/The_Color_Purple) - Alice Walker
+- [ ] **(1984)** [**Ironweed**](https://en.wikipedia.org/wiki/Ironweed) - William Kennedy
+- [ ] **(1985)** [**Foreign Affairs**](https://en.wikipedia.org/wiki/Foreign_Affairs_\(novel\)) - Alison Lurie
+- [ ] **(1986)** [**Lonesome Dove**](https://en.wikipedia.org/wiki/Lonesome_Dove) - Larry McMurtry
+- [ ] **(1987)** [**A Summons to Memphis**](https://en.wikipedia.org/wiki/A_Summons_to_Memphis) - Peter Taylor
+- [ ] **(1988)** [**Beloved**](https://en.wikipedia.org/wiki/Beloved_\(novel\)) - Toni Morrison
+- [ ] **(1989)** [**Breathing Lessons**](https://en.wikipedia.org/wiki/Breathing_Lessons) - Anne Tyler
+- [ ] **(1990)** [**The Mambo Kings Play Songs of Love**](https://en.wikipedia.org/wiki/The_Mambo_Kings_Play_Songs_of_Love) - Oscar Hijuelos
+- [ ] **(1991)** [**Rabbit At Rest**](https://en.wikipedia.org/wiki/Rabbit_at_Rest) - John Updike
+- [ ] **(1992)** [**A Thousand Acres**](https://en.wikipedia.org/wiki/A_Thousand_Acres) - Jane Smiley
+- [ ] **(1993)** [**A Good Scent from a Strange Mountain**](https://en.wikipedia.org/wiki/A_Good_Scent_from_a_Strange_Mountain) - Robert Olen Butler
+- [ ] **(1994)** [**The Shipping News**](https://en.wikipedia.org/wiki/The_Shipping_News) - E. Annie Proulx
+- [ ] **(1995)** [**The Stone Diaries**](https://en.wikipedia.org/wiki/The_Stone_Diaries) - Carol Shields
+- [ ] **(1996)** [**Independence Day**](https://en.wikipedia.org/wiki/Independence_Day_\(Ford_novel\)) - Richard Ford
+- [ ] **(1997)** [**Martin Dressler: The Tale of an American Dreamer**](https://en.wikipedia.org/wiki/Martin_Dressler:_The_Tale_of_an_American_Dreamer) - Steven Millhauser
+- [ ] **(1998)** [**American Pastoral**](https://en.wikipedia.org/wiki/American_Pastoral) - Philip Roth
+- [ ] **(1999)** [**The Hours**](https://en.wikipedia.org/wiki/The_Hours) - Michael Cunningham
+- [ ] **(2000)** [**Interpreter of Maladies**](https://en.wikipedia.org/wiki/Interpreter_of_Maladies) - Jhumpa Lahiri
+- [ ] **(2001)** [**The Amazing Adventures of Kavalier & Clay**](https://en.wikipedia.org/wiki/The_Amazing_Adventures_of_Kavalier_%26_Clay) - Michael Chabon
+- [ ] **(2002)** [**Empire Falls**](https://en.wikipedia.org/wiki/Empire_Falls) - Richard Russo
+- [ ] **(2003)** [**Middlesex**](https://en.wikipedia.org/wiki/Middlesex_\(novel\)) - Jeffrey Eugenides
+- [ ] **(2004)** [**The Known World**](https://en.wikipedia.org/wiki/The_Known_World) - Edward P. Jones
+- [ ] **(2005)** [**Gilead**](https://en.wikipedia.org/wiki/Gilead_\(novel\)) - Marilynne Robinson
+- [ ] **(2006)** [**March**](https://en.wikipedia.org/wiki/March_\(Brooks_novel\)) - Geraldine Brooks
+- [ ] **(2007)** [**The Road**](https://en.wikipedia.org/wiki/The_Road_\(McCarthy_novel\)) - Cormac McCarthy
+- [ ] **(2008)** [**The Brief Wondrous Life of Oscar Wao**](https://en.wikipedia.org/wiki/The_Brief_Wondrous_Life_of_Oscar_Wao) - Junot Díaz
+- [ ] **(2009)** [**Olive Kitteridge**](https://en.wikipedia.org/wiki/Olive_Kitteridge) - Elizabeth Strout
+- [ ] **(2010)** [**Tinkers**](https://en.wikipedia.org/wiki/Tinkers_\(novel\)) - Paul Harding
+- [ ] **(2011)** [**A Visit from the Goon Squad**](https://en.wikipedia.org/wiki/A_Visit_from_the_Goon_Squad) - Jennifer Egan
+- [x] (2012) _Não houve premiação_
+- [ ] **(2013)** [**The Orphan Master's Son**](https://en.wikipedia.org/wiki/The_Orphan_Master%27s_Son) - Adam Johnson
+- [ ] **(2014)** [**The Goldfinch**](https://en.wikipedia.org/wiki/The_Goldfinch_\(novel\)) - Donna Tartt
+- [ ] **(2015)** [**All the Light We Cannot See**](https://en.wikipedia.org/wiki/All_the_Light_We_Cannot_See) - Anthony Doerr
+- [ ] **(2016)** [**The Sympathizer**](https://en.wikipedia.org/wiki/The_Sympathizer) - Viet Thanh Nguyen
+- [ ] **(2017)** [**The Underground Railroad**](https://en.wikipedia.org/wiki/The_Underground_Railroad_\(novel\)) - Colson Whitehead
+- [ ] **(2018)** [**Less**](https://en.wikipedia.org/wiki/Less_\(Greer_novel\)) - Andrew Sean Greer
+- [ ] **(2019)** [**The Overstory**](https://en.wikipedia.org/wiki/The_Overstory) - Richard Powers
+- [ ] **(2020)** [**The Nickel Boys**](https://en.wikipedia.org/wiki/The_Nickel_Boys) - Colson Whitehead
+- [ ] **(2021)** [**The Night Watchman**](https://en.wikipedia.org/wiki/The_Night_Watchman) - Louise Erdrich
+- [ ] **(2022)** [**The Netanyahus**](https://en.wikipedia.org/wiki/The_Netanyahus) - Joshua Cohen
+- [x] **(2023)** [**Trust**](https://en.wikipedia.org/wiki/Trust_\(Diaz_novel\)) - Hernan Diaz
+- [ ] **(2023)** [**Demon Copperhead**](https://en.wikipedia.org/wiki/Demon_Copperhead) - Barbara Kingsolver
+- [ ] **(2024)** [**Night Watch**](https://en.wikipedia.org/wiki/Night_Watch_\(Jayne_Anne_Phillips_novel\)) - Jayne Anne Phillips
+
+Note que em **2023**, o prêmio foi compartilhado por duas obras. 
