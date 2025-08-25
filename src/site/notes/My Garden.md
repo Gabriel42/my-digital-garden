@@ -1,5 +1,0 @@
----
-{"dg-publish":true,"permalink":"/my-garden/","tags":["gardenEntry"]}
----
-
-Teste teste teste
