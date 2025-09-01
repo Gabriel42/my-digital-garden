@@ -2,4 +2,4 @@
 {"dg-publish":true,"permalink":"/garden/love-will-find/","tags":["gardenEntry"]}
 ---
 
-Teste teste teste
+Home do meu garden
