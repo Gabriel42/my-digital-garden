@@ -72,5 +72,5 @@ Rolled a 5. Ultimate RPG Character Backstory Guide: Expanded Genres Edition.
 
 But wait… should I read the original edition first? Or just dive into the expanded one? Do I even need to read both? Time for some fun fun research.
 
-I’ll be back with answers and opinions in the next post.
+I’ll be back with answers and opinions in the next post. Also, I should add a comment section huh? Have I already told you I'm new to this posting things online?
 
