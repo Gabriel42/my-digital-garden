@@ -74,3 +74,18 @@ But wait… should I read the original edition first? Or just dive into the expa
 
 I’ll be back with answers and opinions in the next post. Also, I should add a comment section huh? Have I already told you I'm new to this posting things online?
 
+<script src="https://giscus.app/client.js"
+        data-repo="Gabriel42/my-digital-garden"
+        data-repo-id="R_kgDOPjy1Tg"
+        data-category="General"
+        data-category-id="DIC_kwDOPjy1Ts4Cu2Ue"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
