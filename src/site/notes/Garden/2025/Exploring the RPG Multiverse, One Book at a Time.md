@@ -8,19 +8,21 @@ It’s been years since I last played, but I remember fondly how, in my formativ
 
 ![b22ecad01d01926a0f68c46fa665762a.jpg](/img/user/b22ecad01d01926a0f68c46fa665762a.jpg)
 
-Now that I’m diving back in, I keep asking myself: what should I write about? The TTRPG blogosphere is already packed with brilliant voices, funny, insightful, deeply researched, and endlessly creative. Just last week I discovered Chris McDowall’s blog and almost lost myself in his years of posts. I’m not at that level (maybe one day), so instead I’ll embrace my noob status. I’ll write from the honest perspective of someone rediscovering the hobby and being constantly amazed by it. Hopefully, seeing this space through fresh eyes will make for something interesting to read.
+Now that I’m diving back in, I keep asking myself: what should I write about? The TTRPG blogosphere is already packed with brilliant voices, funny, insightful, deeply researched, and endlessly creative. Just last week I discovered Chris McDowall’s blog and almost lost myself in his years of posts. I’m not at that level (maybe one day a few decades from now), so instead I’ll embrace my noob status. I’ll write from the honest perspective of someone rediscovering the hobby and being constantly amazed by it. Hopefully, seeing this space through fresh eyes will make for something interesting to read.
 
 Still, the blog needs a bit more substance. I’ve been reading a lot lately, including TTRPG books. Last year I went through Troyka, Dog Eat Dog, and Thousand Year Old Vampire. More recently I devoured Mythic Bastionland and immediately ran a one-shot with three friends. And while browsing the internet, I stumbled on the Humble Bundle “The Ultimate Guide to Tabletop RPGs, Worldbuilding, and Folklore” by Adams Media, a collection of 27 books. That gave me an idea: I’ll read them and share my impressions here.
 
+---
+
 Here’s the lineup, divided into categories:
 
-Dungeonmeister Series
+## Dungeonmeister Series
 
 Dungeonmeister Book of RPG Trivia
 Dungeonmeister Cookbook
 Dungeonmeister
 
-Ultimate RPG Guides
+## Ultimate RPG Guides
 
 Ultimate RPG Game Master's Guide
 Ultimate RPG Game Master's Worldbuilding Guide
@@ -31,7 +33,7 @@ Ultimate Fantasy Character Creator
 Ultimate Micro-RPG Book
 Ultimate Random Encounters Book
 
-Myth and Folklore
+## Myth and Folklore
 
 Book of Japanese Folklore: An Encyclopedia of the Spirits, Monsters, and Yokai of Japanese Myth
 Book of Viking Myths
@@ -40,7 +42,7 @@ Greek Mythology: The Gods, Goddesses, and Heroes Handbook
 Norse Mythology: The Gods, Goddesses, and Heroes Handbook
 Women of Myth
 
-Fantasy Creatures
+## Fantasy Creatures
 
 Dragons
 Unicorns
@@ -49,12 +51,14 @@ Fairies
 Vampires
 Wizards
 
-Tabletop and Gaming
+## Tabletop and Gaming
 
 Civilized Guide to Tabletop Gaming
 Everything Tabletop Games Book
 Dragon Walks Into a Bar
 Dictionary of Made-Up Languages
+
+---
 
 Some ground rules: the Dungeonmeister books won’t be read cover to cover. I’ll dip into them, try a recipe here and there, maybe flip through the trivia book when the mood strikes. To keep things from feeling like homework, I’ll mix categories instead of plowing through six fantasy creature books in a row. Bigger categories, like the Ultimate RPG guides, will naturally show up more often.
 
