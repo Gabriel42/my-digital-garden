@@ -2,9 +2,11 @@
 {"dg-publish":true,"permalink":"/garden/2025/exploring-the-rpg-multiverse-one-book-at-a-time/","tags":["dailynote"]}
 ---
 
-A new month, a new school year (here in France, it starts in September), and the perfect time to begin something fresh: this blog. I’ll be writing about my rediscovered hobby of TTRPGs.
+2025-09-01
 
-It’s been years since I last played, but I remember fondly how, in my formative years, I loved to drain the blood of strangers on the street and hide their bodies. My favorite character was a child Malkavian vampire with a split personality. I liked to think of myself as a little like Kirsten Dunst in Interview with the Vampire, but with one more personality.
+A new month, a new school year and the perfect time to begin something fresh: this blog. I’ll be writing about my rediscovered hobby of TTRPGs.
+
+It’s been years since I last played, but I remember fondly how, in my formative years, I loved to drain the blood of strangers on the street and hide their bodies. My favorite character was a child Malkavian vampire with a split personality. I liked to think of myself as a little Kirsten Dunst in Interview with the Vampire, but with one more personality.
 
 ![b22ecad01d01926a0f68c46fa665762a.jpg](/img/user/b22ecad01d01926a0f68c46fa665762a.jpg)
 
@@ -72,7 +74,7 @@ Rolled a 5. Ultimate RPG Character Backstory Guide: Expanded Genres Edition.
 
 But wait… should I read the original edition first? Or just dive into the expanded one? Do I even need to read both? Time for some fun fun research.
 
-I’ll be back with answers and opinions in the next post. Also, I should add a comment section huh? Have I already told you I'm new to this posting things online?
+I’ll be back with answers and opinions in the next post.
 
 <script src="https://giscus.app/client.js"
         data-repo="Gabriel42/my-digital-garden"
