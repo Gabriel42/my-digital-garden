@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/garden/2025/august/getting-to-know-my-garden/"}
 ---
 
-Hello everyone who comes here. This is me Gabriel creating a digital garden and seeing what this is all about.
+Hello everyone who comes here.
 
 I was inspired by [[Diversos/Pessoas/Chris Mcdowall\|Chris Mcdowall]],  who writes about ttrpg since 2009. You can find his blog [here](https://www.bastionland.com/). He is also the creator of [[Mythic Bastionland\|Mythic Bastionland]], a game I've been diving into the last weeks.
 
