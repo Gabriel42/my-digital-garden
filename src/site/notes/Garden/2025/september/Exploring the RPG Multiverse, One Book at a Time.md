@@ -6,7 +6,7 @@
 
 A new month, a new school year and the perfect time to begin something fresh: this blog. I’ll be writing about my rediscovered hobby of TTRPGs.
 
-It’s been years since I last played, but I remember fondly how, in my formative years, I loved to drain the blood of strangers on the street and hide their bodies. My favorite character was a child Malkavian vampire with a split personality. I liked to think of myself as a little Kirsten Dunst in Interview with the Vampire, but with one more personality.
+It’s been years since I last played, but I remember fondly how, in my formative years, I loved to drain the blood of strangers on the street and hide their bodies. My favorite character was a child Malkavian vampire with a split personality. I liked to think of myself as a little Kirsten Dunst in Interview with the Vampire, but with one extra personality.
 
 ![b22ecad01d01926a0f68c46fa665762a.jpg](/img/user/b22ecad01d01926a0f68c46fa665762a.jpg)
 
