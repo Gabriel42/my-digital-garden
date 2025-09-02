@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/notes/hugo-of-best-short-story/"}
+{"dg-publish":true,"permalink":"/garden/notes/hugo-of-best-short-story/","created":"2025-06-07T07:42:49.292+02:00","updated":"2025-08-25T15:43:26.738+02:00"}
 ---
 
 - [ ] 1955 - [Allamagoosa](https://en.wikipedia.org/wiki/Allamagoosa)

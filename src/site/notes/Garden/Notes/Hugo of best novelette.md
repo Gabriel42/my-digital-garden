@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/notes/hugo-of-best-novelette/"}
+{"dg-publish":true,"permalink":"/garden/notes/hugo-of-best-novelette/","created":"2025-06-07T07:36:30.355+02:00","updated":"2025-08-25T15:43:33.922+02:00"}
 ---
 
 - [ ] 1955 - [The Darfsteller](https://en.wikipedia.org/wiki/The_Darfsteller)

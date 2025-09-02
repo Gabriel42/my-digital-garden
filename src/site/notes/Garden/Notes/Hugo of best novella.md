@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/notes/hugo-of-best-novella/"}
+{"dg-publish":true,"permalink":"/garden/notes/hugo-of-best-novella/","created":"2025-06-07T07:41:20.634+02:00","updated":"2025-08-25T15:43:30.162+02:00"}
 ---
 
 - [ ] 1968 - [Weyr Search](https://en.wikipedia.org/wiki/Weyr_Search)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/notes/pulitzer/"}
+{"dg-publish":true,"permalink":"/garden/notes/pulitzer/","created":"2025-04-04T17:22:52.579+02:00","updated":"2025-08-25T15:43:11.300+02:00"}
 ---
 
 - [ ] **(1918)** [**His Family**](https://en.wikipedia.org/wiki/His_Family_\(novel\)) - Ernest Poole

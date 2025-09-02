@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/love-will-find/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/garden/love-will-find/","tags":["gardenEntry"],"created":"2025-08-25T11:33:44.939+02:00","updated":"2025-09-02T10:29:47.017+02:00"}
 ---
 
 2025-09-02

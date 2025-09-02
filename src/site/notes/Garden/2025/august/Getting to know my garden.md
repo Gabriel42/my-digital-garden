@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/2025/august/getting-to-know-my-garden/"}
+{"dg-publish":true,"permalink":"/garden/2025/august/getting-to-know-my-garden/","created":"2025-08-25T15:31:11.900+02:00","updated":"2025-09-02T10:33:23.156+02:00"}
 ---
 
 Hello everyone who comes here.

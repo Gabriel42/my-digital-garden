@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/2025/september/exploring-the-rpg-multiverse-one-book-at-a-time/","tags":["dailynote"]}
+{"dg-publish":true,"permalink":"/garden/2025/september/exploring-the-rpg-multiverse-one-book-at-a-time/","tags":["dailynote"],"created":"2025-09-01T18:18:14.423+02:00","updated":"2025-09-02T10:35:28.419+02:00"}
 ---
 
 2025-09-01

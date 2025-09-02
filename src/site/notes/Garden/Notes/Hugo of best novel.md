@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/notes/hugo-of-best-novel/"}
+{"dg-publish":true,"permalink":"/garden/notes/hugo-of-best-novel/","created":"2025-01-01T12:09:16.143+01:00","updated":"2025-08-25T15:43:40.655+02:00"}
 ---
 
 - [ ] 1953 - _[The Demolished Man](https://en.wikipedia.org/wiki/The_Demolished_Man)_ - 250 pages
