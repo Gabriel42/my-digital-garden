@@ -1,12 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/garden/love-will-find/","tags":["gardenEntry"],"created":"2025-08-25T11:33:44.939+02:00","updated":"2025-09-02T10:29:47.017+02:00"}
+{"dg-publish":true,"permalink":"/garden/love-will-find/","tags":["gardenEntry"],"created":"2025-08-25T11:33:44.939+02:00","updated":"2025-09-02T11:22:23.648+02:00"}
 ---
-
-2025-09-02
-[[Garden/2025/september/teste2\|teste2]]
-
-2025-09-02
-[[Garden/2025/september/test\|test]]
 
 2025-09-01
 [[Garden/2025/september/Exploring the RPG Multiverse, One Book at a Time\|Exploring the RPG Multiverse, One Book at a Time]]
