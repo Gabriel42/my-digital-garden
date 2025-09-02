@@ -8,7 +8,7 @@ A new month, a new school year and the perfect time to begin something fresh: th
 
 It’s been years since I last played, but I remember fondly how, in my formative years, I loved to drain the blood of strangers on the street and hide their bodies. My favorite character was a child Malkavian vampire with a split personality. I liked to think of myself as a little Kirsten Dunst in Interview with the Vampire, but with one extra personality.
 
-![b22ecad01d01926a0f68c46fa665762a.jpg](/img/user/b22ecad01d01926a0f68c46fa665762a.jpg)
+![b22ecad01d01926a0f68c46fa665762a.jpg](/img/user/Arquivos/Images/b22ecad01d01926a0f68c46fa665762a.jpg)
 
 Now that I’m diving back in, I keep asking myself: what should I write about? The TTRPG blogosphere is already packed with brilliant voices, funny, insightful, deeply researched, and endlessly creativity. Just last week I discovered [Chris McDowall’s blog](https://www.bastionland.com/) and almost lost myself in his years of posts. I’m not at that level (maybe one day a few decades from now), so instead I’ll embrace my noob status. I’ll write from the honest perspective of someone rediscovering the hobby and being constantly amazed by it. Hopefully, seeing this space through fresh eyes will make for something interesting to read.
 
@@ -68,7 +68,7 @@ I also plan to look into the authors themselves, because let’s be real, fallin
 
 So, without further ado, let’s roll a d8 to see which Ultimate RPG Guide comes first.
 
-![Pasted image 20250901180526.png](/img/user/Pasted%20image%2020250901180526.png)
+![Pasted image 20250901180526.png](/img/user/Arquivos/Images/Pasted%20image%2020250901180526.png)
 
 Rolled a 5. Ultimate RPG Character Backstory Guide: Expanded Genres Edition.
 
