@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/garden/2025/september/appendix-n/","created":"2025-09-03T09:01:10.134+02:00","updated":"2025-09-08T11:02:12.902+02:00"}
+{"dg-publish":true,"permalink":"/garden/2025/september/appendix-n/","created":"2025-09-03T09:01:10.134+02:00","updated":"2025-09-08T11:04:08.670+02:00"}
 ---
 
+My entry in the [Appendix N bandwagon](https://prismaticweekly.substack.com/p/blogwagon-announcement-appendicitis) proposed by [Marcia B.](https://traversefantasy.blogspot.com/2025/09/appendix-m-part-1.html).
 ## TTRPG
 
 - **Mage: The Ascension** — What I love most about _Mage_ is the freedom its magic system gives you. It’s not just about flashy spells, but about how creativity collides with consequences. I’ve long toyed with the idea of making an RPG in RPGMaker where instead of spending mana, you’d accumulate paradox and the more paradox you carried, the worse the fallout would become.
