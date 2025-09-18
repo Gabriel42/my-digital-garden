@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/2025/september/the-meaning-behind-an-oath/","created":"2025-09-18T16:25:28.627+02:00","updated":"2025-09-18T16:36:18.123+02:00"}
+{"dg-publish":true,"permalink":"/garden/2025/september/the-meaning-behind-an-oath/","created":"2025-09-18T16:25:28.627+02:00","updated":"2025-09-18T16:41:15.216+02:00"}
 ---
 
 
@@ -11,9 +11,9 @@ Before I get into the details, let me say a quick word about the book itself. Th
 ![Pasted image 20250918163154.png](/img/user/Pasted%20image%2020250918163154.png)
 But the Oath… that stuck with me.
 
-The book reminds us that “many fantasy protagonists are sworn to follow a code that spurs them to action and challenges them on their journey.” That line hit close to home. In a way, starting this blog _is_ my oath: a promise to read, reflect, and explore RPG books—one at a time. Getting back into TTRPGs feels like a journey, and this blog is the road I’ve chosen.
+The book reminds us that “many fantasy protagonists are sworn to follow a code that spurs them to action and challenges them on their journey.” That line hit close to home. In a way, starting this blog _is_ my oath: a promise to read, reflect, and explore RPG books one at a time. Getting back into TTRPGs feels like a journey, and this blog is the road I’ve chosen.
 
-So, why not take the exercise seriously and make an oath of my own? It will be exaggerated, sure—this is a blog, not a hero’s quest—but leaning into the overblown tone feels right. Let’s see what my backstory looks like when filtered through the book’s structure.
+So, why not take the exercise seriously and make an oath of my own? It will be exaggerated, sure this is a blog, not a hero’s quest, but leaning into the overblown tone feels right. Let’s see what my backstory looks like when filtered through the book’s structure.
 
 ---
 
