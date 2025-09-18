@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/garden/2025/september/the-meaning-behind-an-oath/","created":"2025-09-18T16:25:28.627+02:00","updated":"2025-09-18T16:32:06.340+02:00"}
+{"dg-publish":true,"permalink":"/garden/2025/september/the-meaning-behind-an-oath/","created":"2025-09-18T16:25:28.627+02:00","updated":"2025-09-18T16:36:18.123+02:00"}
 ---
 
 
 
-While reading the first book from this bundle, what struck me most wasn’t a mechanic, or a clever piece of advice, but the idea of creating an **Oath**.
+While reading the first book from [[Garden/2025/september/Exploring the RPG Multiverse, One Book at a Time\|the bundle]], what struck me most wasn’t a mechanic, or a clever piece of advice, but the idea of creating an **Oath**.
 
 Before I get into the details, let me say a quick word about the book itself. This _Backstory Guide_ is less of a front-to-back read and more of a **toolbox**. I didn’t read it all, but even a couple of chapters were enough to show me the approach: a series of exercises to spark creativity and dig into your character’s history. Some are straightforward, some more introspective, and the book even encourages you to hack and invent your own.
 
