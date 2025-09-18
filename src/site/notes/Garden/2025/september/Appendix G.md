@@ -12,7 +12,7 @@ My entry in the [Appendix N bandwagon](https://prismaticweekly.substack.com/p/bl
 
 ## Literature
 
-- **Ursula K. Le Guin** — What stays with me is her gift for showing so well the collision of cultures, and her hopefulness about humanity. A line from _The Left Hand of Darkness_ keeps echoing in my head: _“Truth is a matter of the imagination.”_![ursula-le-guin.jpg](/img/user/ursula-le-guin.jpg)
+- **Ursula K. Le Guin** — What stays with me is her gift for showing so well the collision of cultures, and her hopefulness about humanity. A line from _The Left Hand of Darkness_ keeps echoing in my head: _“Truth is a matter of the imagination.”_![ursula-le-guin.jpg](/img/user/zunsorted/ursula-le-guin.jpg)
     
 - **Ted Chiang** — His stories shaped the way I see the world. The precision of his ideas and how they unfold stay with me long after reading. I don’t have many words for it, other than that his writing defines what I find compelling in storytelling.
     
@@ -25,7 +25,7 @@ My entry in the [Appendix N bandwagon](https://prismaticweekly.substack.com/p/bl
     
 - **Factorio** — People talk about automation, but for me the heart of it is puzzles and creativity. It’s about open-ended solutions and the joy of design. Other “Zachlikes” scratch that same itch.
     
-- **Tametsi** — Playing it feels like having a quiet conversation with the designer. You can sense how ideas evolve and are presented so that you think exactly as intended. Games like _Baba Is You_ and _Patrick’s Parabox_ carry that same energy.![Pasted image 20250908105408.png](/img/user/Pasted%20image%2020250908105408.png)
+- **Tametsi** — Playing it feels like having a quiet conversation with the designer. You can sense how ideas evolve and are presented so that you think exactly as intended. Games like _Baba Is You_ and _Patrick’s Parabox_ carry that same energy.![Pasted image 20250908105408.png](/img/user/zunsorted/Pasted%20image%2020250908105408.png)
     
 
 ## Movies
@@ -39,7 +39,7 @@ My entry in the [Appendix N bandwagon](https://prismaticweekly.substack.com/p/bl
 
 
 - **Daniel Johnston** — His art inspires me when I imagine characters for my worlds. The name of this blog itself comes from one of his songs: _“True Love Will Find You in the End.”_
- ![Daniel_Johnston_Lee_Foster_Dick_Johnston_grande.webp](/img/user/Daniel_Johnston_Lee_Foster_Dick_Johnston_grande.webp)
+ ![Daniel_Johnston_Lee_Foster_Dick_Johnston_grande.webp](/img/user/zunsorted/Daniel_Johnston_Lee_Foster_Dick_Johnston_grande.webp)
     
 - **The New Sound** — I want to feel as bold and confident in my work as Georgie Greep does here. His fearlessness in diving into difficult artistic choices is something I deeply admire.
     

@@ -4,7 +4,7 @@
 
 Hello everyone who comes here.
 
-I was inspired by [[Diversos/Pessoas/Chris Mcdowall\|Chris Mcdowall]],  who writes about ttrpg since 2009. You can find his blog [here](https://www.bastionland.com/). He is also the creator of [[Mythic Bastionland\|Mythic Bastionland]], a game I've been diving into the last weeks.
+I was inspired by [[Diversos/Pessoas/Chris Mcdowall\|Chris Mcdowall]],  who writes about ttrpg since 2009. You can find his blog [here](https://www.bastionland.com/). He is also the creator of [[zunsorted/Mythic Bastionland\|Mythic Bastionland]], a game I've been diving into the last weeks.
 
 Just wanted a place where I can try to grow something of my own and see what happens if I share it online with the whole world. I will mostly talk about game design I think. But will probably talk about movies and books too.
 
