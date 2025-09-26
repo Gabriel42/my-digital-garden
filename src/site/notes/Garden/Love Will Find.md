@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/garden/love-will-find/","tags":["gardenEntry"],"created":"2025-08-25T11:33:44.939+02:00","updated":"2025-09-18T16:33:34.221+02:00"}
+{"dg-publish":true,"permalink":"/garden/love-will-find/","tags":["gardenEntry"],"created":"2025-08-25T11:33:44.939+02:00","updated":"2025-09-26T10:35:41.219+02:00"}
 ---
+
+2025-09-26
+[[Garden/2025/september/What Do the Guards on Your Walls Say About Your City\|What Do the Guards on Your Walls Say About Your City]]
 
 2025-09-18
 [[Garden/2025/september/The meaning behind an Oath\|The meaning behind an Oath]]
