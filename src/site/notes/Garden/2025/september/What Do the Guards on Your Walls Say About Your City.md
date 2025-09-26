@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/2025/september/what-do-the-guards-on-your-walls-say-about-your-city/","created":"2025-09-26T10:15:09.264+02:00","updated":"2025-09-26T10:41:57.409+02:00"}
+{"dg-publish":true,"permalink":"/garden/2025/september/what-do-the-guards-on-your-walls-say-about-your-city/","created":"2025-09-26T10:15:09.264+02:00","updated":"2025-09-26T11:06:37.429+02:00"}
 ---
 
 
@@ -12,7 +12,7 @@ Much like[ _Killable Peoples_](https://www.prismaticwasteland.com/blog/killable-
 
 Guards are more than stat blocks with halberds. They are political text, narrative signal, and symbolic declaration. Who stands on those walls, how they are armed, how they treat strangers, these choices all reveal something about the city’s bones, its ruling class, its fears, and its self-image.
 
-![[Pasted image 20250926103305.png \| center]]
+![Pasted image 20250926103305.png](/img/user/Pasted%20image%2020250926103305.png)
 
 
 ---
