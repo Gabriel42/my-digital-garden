@@ -1,12 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/garden/2025/september/what-do-the-guards-on-your-walls-say-about-your-city/","created":"2025-09-26T10:15:09.264+02:00","updated":"2025-09-26T10:38:11.944+02:00"}
+{"dg-publish":true,"permalink":"/garden/2025/september/what-do-the-guards-on-your-walls-say-about-your-city/","created":"2025-09-26T10:15:09.264+02:00","updated":"2025-09-26T10:41:57.409+02:00"}
 ---
 
 
 
 I've been preparing my first DnD campaign those last weeks and one of the things that passed my mind was how the encounter of the party with the first town would go. While wondering about it the idea of this article grew in my mind. This thought made me think a lot on Prismatic Waystation article about [_Killable Peoples_](https://www.prismaticwasteland.com/blog/killable-peoples).
 
-This isn’t just about worldbuilding trivia. Much like[ _Killable Peoples_](https://www.prismaticwasteland.com/blog/killable-peoples) teases out what it means when a setting assumes some creatures are “default enemies,” the guards we post around our cities carry unspoken assumptions. They embody who is trusted, who is feared, and who is expendable.
+This article is more of a work preparation for the campaign that I thought would be interesting to write down and share at the blog. So when you see me talking about ideas and suggestions that I give you, we can also see as me talking to myself. Anyway let's enter the discussion already.
+
+Much like[ _Killable Peoples_](https://www.prismaticwasteland.com/blog/killable-peoples) teases out what it means when a setting assumes some creatures are “default enemies,” the guards we post around our cities carry unspoken assumptions. They embody who is trusted, who is feared, and who is expendable.
 
 Guards are more than stat blocks with halberds. They are political text, narrative signal, and symbolic declaration. Who stands on those walls, how they are armed, how they treat strangers, these choices all reveal something about the city’s bones, its ruling class, its fears, and its self-image.
 
