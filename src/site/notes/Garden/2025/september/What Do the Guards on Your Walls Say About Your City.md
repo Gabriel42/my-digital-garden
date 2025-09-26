@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/garden/2025/september/what-do-the-guards-on-your-walls-say-about-your-city/","created":"2025-09-26T10:15:09.264+02:00","updated":"2025-09-26T11:07:18.603+02:00"}
+{"dg-publish":true,"permalink":"/garden/2025/september/what-do-the-guards-on-your-walls-say-about-your-city/","created":"2025-09-26T10:15:09.264+02:00","updated":"2025-09-26T11:42:02.574+02:00"}
 ---
 
 
 
-I've been preparing my first DnD campaign those last weeks and one of the things that passed my mind was how the encounter of the party with the first town would go. While wondering about it the idea of this article grew in my mind. This thought made me think a lot on Prismatic Waystation article about [_Killable Peoples_](https://www.prismaticwasteland.com/blog/killable-peoples).
+I've been preparing my first DnD campaign those last weeks and one of the things that passed my mind was how the encounter of the party with the first town would go. While wondering about it the idea of this article grew in my mind. Working on this draft made me think a lot on Prismatic Waystation article about [_Killable Peoples_](https://www.prismaticwasteland.com/blog/killable-peoples).
 
 This article is more of a work preparation for the campaign that I thought would be interesting to write down and share at the blog. So when you see me talking about ideas and suggestions that I give you, we can also see as me talking to myself. Anyway let's enter the discussion already.
 
@@ -12,7 +12,7 @@ Much like[ _Killable Peoples_](https://www.prismaticwasteland.com/blog/killable-
 
 Guards are more than stat blocks with halberds. They are political text, narrative signal, and symbolic declaration. Who stands on those walls, how they are armed, how they treat strangers, these choices all reveal something about the city’s bones, its ruling class, its fears, and its self-image.
 
-![Pasted image 20250926110716.png](/img/user/Pasted%20image%2020250926110716.png)
+![Pasted image 20250926110716.png](/img/user/zunsorted/Pasted%20image%2020250926110716.png)
 
 
 ---
@@ -113,7 +113,7 @@ It’s easy to default to “a few armored men at the gate.” But if you think 
     
 - Consider what a lack of guards communicates. Sometimes absence is the strongest presence.
      
-![AAAABfNx0UKeix9jyHN7ge-w1AMFRKkztwKMIqceF5piBLexvDGpN_JxwOJDyAglZYN249ONgthrWq9pvwLS0mHoP5b4tLt0Lpm5jbZc.jpg](/img/user/AAAABfNx0UKeix9jyHN7ge-w1AMFRKkztwKMIqceF5piBLexvDGpN_JxwOJDyAglZYN249ONgthrWq9pvwLS0mHoP5b4tLt0Lpm5jbZc.jpg)
+![AAAABfNx0UKeix9jyHN7ge-w1AMFRKkztwKMIqceF5piBLexvDGpN_JxwOJDyAglZYN249ONgthrWq9pvwLS0mHoP5b4tLt0Lpm5jbZc.jpg](/img/user/zunsorted/AAAABfNx0UKeix9jyHN7ge-w1AMFRKkztwKMIqceF5piBLexvDGpN_JxwOJDyAglZYN249ONgthrWq9pvwLS0mHoP5b4tLt0Lpm5jbZc.jpg)
 
 ---
 
