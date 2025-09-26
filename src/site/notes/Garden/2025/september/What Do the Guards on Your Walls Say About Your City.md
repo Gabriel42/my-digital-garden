@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/2025/september/what-do-the-guards-on-your-walls-say-about-your-city/","created":"2025-09-26T10:15:09.264+02:00","updated":"2025-09-26T10:35:22.405+02:00"}
+{"dg-publish":true,"permalink":"/garden/2025/september/what-do-the-guards-on-your-walls-say-about-your-city/","created":"2025-09-26T10:15:09.264+02:00","updated":"2025-09-26T10:38:11.944+02:00"}
 ---
 
 
@@ -112,6 +112,7 @@ It’s easy to default to “a few armored men at the gate.” But if you think 
 - Consider what a lack of guards communicates. Sometimes absence is the strongest presence.
      
 ![AAAABfNx0UKeix9jyHN7ge-w1AMFRKkztwKMIqceF5piBLexvDGpN_JxwOJDyAglZYN249ONgthrWq9pvwLS0mHoP5b4tLt0Lpm5jbZc.jpg](/img/user/AAAABfNx0UKeix9jyHN7ge-w1AMFRKkztwKMIqceF5piBLexvDGpN_JxwOJDyAglZYN249ONgthrWq9pvwLS0mHoP5b4tLt0Lpm5jbZc.jpg)
+
 ---
 
 ## A Final Prompt for GMs
